@@ -2124,6 +2124,12 @@ body {
 .cid-rnJlPzGiNY textarea.form-control {
   min-height: 188px;
 }
+.cid-rnJlPzGiNY H2 {
+  color: #149dcc;
+}
+.cid-rnJlPzGiNY LABEL {
+  color: #149dcc;
+}
 .cid-rnsz1pSElV {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2168,6 +2174,9 @@ body {
   .cid-rnsz1pSElV .btn {
     font-size: 20px !important;
   }
+}
+.cid-rnsz1pSElV .mbr-section-title {
+  color: #149dcc;
 }
 .cid-roF0EQBFNl {
   padding-top: 60px;
@@ -3549,12 +3558,12 @@ body {
 }
 .cid-rnlEtT7mAd .navbar {
   padding: .5rem 0;
-  background: #149dcc;
+  background: #5bcaf1;
   transition: none;
   min-height: 77px;
 }
 .cid-rnlEtT7mAd .navbar-dropdown.bg-color.transparent.opened {
-  background: #149dcc;
+  background: #5bcaf1;
 }
 .cid-rnlEtT7mAd a {
   font-style: normal;
@@ -3645,7 +3654,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rnlEtT7mAd .dropdown .dropdown-menu {
-  background: #149dcc;
+  background: #5bcaf1;
   display: none;
   position: absolute;
   min-width: 5rem;
